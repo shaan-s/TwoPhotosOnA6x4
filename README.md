@@ -2,7 +2,8 @@
 
 This script is allows you to print 2 photos on one piece of 6"x4" photo paper. Drag and drop 2 photos onto the script, and it will stich them onto an image the size of a 6"x4" photo. The small photos are roughly larger than a 2"x3". Uses Pillow (install with `python3 -m pip install --upgrade Pillow`).
 
-#Example usage:
+# Example usage:
+
 **Stitched image**:
 ![1682045991](https://user-images.githubusercontent.com/31831945/233530251-4932f58a-ba7a-4203-9bda-456f45b7a0f3.jpg)
 
